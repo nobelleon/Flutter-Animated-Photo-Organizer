@@ -2,6 +2,10 @@
 
 ![Animated Photo Organizer App](https://github.com/user-attachments/assets/1a33f9f3-d05e-4321-bae2-7947a5a54736)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 A new Flutter project.                
 
 ## Getting Started 
